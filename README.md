@@ -31,6 +31,8 @@ analyzed using machine learning procedures, algorithms and other related aspets.
 
 [Download DataSet from here](http://ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz)
  then put `aclImdb` folder to parent directory
+#### File structure
+ ![File structure](https://github.com/shamil-t/sentiment-analysis-using-python-IMDB-/blob/master/images/Files.png?raw=true)
 
 ### install modules
 
@@ -82,3 +84,25 @@ python filname.py
 ```bash
 python naive.py
 ```
+
+## ScreenShots
+
+
+#### Ada Boost Classifier
+![Ada Boost Classifier](https://github.com/shamil-t/sentiment-analysis-using-python-IMDB-/blob/master/images/adaboost.png?raw=true)
+
+
+#### Bagging Classifier
+![Bagging Classifier](https://github.com/shamil-t/sentiment-analysis-using-python-IMDB-/blob/master/images/bagging.png?raw=true)
+
+
+#### Naive Bayes - MultinomialNB()
+![Bagging Classifier](https://github.com/shamil-t/sentiment-analysis-using-python-IMDB-/blob/master/images/naive.png?raw=true)
+
+
+#### Random Forest Classifier
+![Random Forest Classifier](https://github.com/shamil-t/sentiment-analysis-using-python-IMDB-/blob/master/images/randomforest.png?raw=true)
+
+
+#### Support Vector Machine - LinearSVC()
+![Support Vector Machine](https://github.com/shamil-t/sentiment-analysis-using-python-IMDB-/blob/master/images/svm.png?raw=true)
