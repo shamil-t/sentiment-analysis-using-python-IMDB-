@@ -1,16 +1,36 @@
 # 🆂🅴🅽🆃🅸🅼🅴🅽🆃-🅰🅽🅰🅻🆈🆂🅸🆂-🆄🆂🅸🅽🅶-🅿🆈🆃🅷🅾🅽
 
+The principal task of Sentiment Analysis is to find the perspective ,view ,attitude or feeling of a speaker on a particular topic, event or interactionBasicaly its the analysis of an emotionally cahrged text.
+	Here we try to analyzethe reviewsposted by people at Imdb. Further the reviews are processed 
+analyzed using machine learning procedures, algorithms and other related aspets.
+
+### Algorithms Used
+	
+	* Support Vector Machine Classifier - `linearSvc`
+	* Random Forest Classifer
+	* AdaBoost Classfier
+	* Naive Bayes Classifier - `MultinomialNB`
+	* Bagging Classifier
+
+### steps in Sentiment Analysis
+
+	1.Formation of Dataset
+	2.Processing of Data
+	3.Creation of Feature Vector
+	4.Classification
 
 
 ## 🅿🆁🅴 🆁🅴🆀🆄🅴🆂🆃🅸🅴🆂
 
 
-### Envirnment
+### Environment Setup
  
          -:> python 2.8 or above 3.x recommended
+
 ### Dataset
-   
-     [DataSet Download from here](http://ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz)
+
+   [link to Google!](http://google.com)
+     [ Download DataSet from here ] (http://ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz)
 
 ### install modules
 
