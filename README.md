@@ -12,7 +12,7 @@ analyzed using machine learning procedures, algorithms and other related aspets.
 	* Naive Bayes Classifier - `MultinomialNB`
 	* Bagging Classifier
 
-### steps in Sentiment Analysis
+### Steps in Sentiment Analysis
 
 	1.Formation of Dataset
 	2.Processing of Data
@@ -29,8 +29,7 @@ analyzed using machine learning procedures, algorithms and other related aspets.
 
 ### Dataset
 
-   [link to Google!](http://google.com)
-     [ Download DataSet from here ] (http://ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz)
+[Download DataSet from here](http://ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz)
 
 ### install modules
 
