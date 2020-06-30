@@ -30,6 +30,7 @@ analyzed using machine learning procedures, algorithms and other related aspets.
 ### Dataset
 
 [Download DataSet from here](http://ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz)
+ then put `aclImdb` folder to parent directory
 
 ### install modules
 
